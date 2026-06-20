@@ -1,0 +1,6 @@
+meter_uri,metered_location,meter_long,meter_lat
+https://example.org/meter/1,B12,5.876500, 51.985028
+https://example.org/meter/2,B42,5.869333, 51.986556
+https://example.org/meter/3,B42,5.869917, 51.984861
+https://example.org/meter/4,,5.872306, 51.985472
+https://example.org/meter/5,,,
