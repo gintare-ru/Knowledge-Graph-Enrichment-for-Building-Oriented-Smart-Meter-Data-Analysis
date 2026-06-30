@@ -13,9 +13,9 @@ The project investigates how semantic enrichment can improve building-level elec
 
 ## Setup
 
-To run the notebook, first activate your environment and install the required packages:
+To run the notebook, open Anaconda Prompt and run these commands:
 
-1. Activate your environment.
+1. Activate your Anaconda environment.
 2. Install Jupyter Notebook 7:
    - `conda install -c conda-forge notebook`
 3. Install the packages needed for interactive outputs:
